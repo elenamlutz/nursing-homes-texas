@@ -1,0 +1,41 @@
+{	
+	"fonts": [  
+        {
+            "aifont": "OpenSans-Extrabold",
+            "family": "Open Sans",
+            "weight": "800",
+            "style": ""
+        },
+        {
+            "aifont": "OpenSans",
+            "family": "Open Sans",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "OpenSans-Light",
+            "family": "Open Sans",
+            "weight": "200",
+            "style": ""
+        },
+        {
+            "aifont": "OpenSans-Semibold",
+            "family": "Open Sans",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Lora-Italic",
+            "family": "Lora",
+            "weight": "400",
+            "style": "italic"
+        },
+        {
+            "aifont": "Avenir-Roman",
+            "family": "Avenir",
+            "weight": "400",
+            "style": ""
+        }
+
+    ]
+}
