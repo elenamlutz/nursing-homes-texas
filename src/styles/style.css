@@ -1,11 +1,10 @@
 body {
-    margin:auto;
-    padding:50px 10px;
     font-family: 'Open Sans', sans-serif;
+    padding: 50px 10px;
 }
 
 img {
-    max-width: 100%;
+    max-width: 110%;
 }
 
 img.scatter {
@@ -66,7 +65,7 @@ img.scatter {
 
 .story-body, .header, .chart-section {
     margin:auto;
-    max-width: 700px;
+    max-width: 800px;
 }
 
 .chart-section.wide{
@@ -105,6 +104,7 @@ h1.headline {
     margin-bottom: 0.25rem;
     margin-top: 1rem;
     font-weight: 800;
+    letter-spacing: -1.5px;
 }
 
 h2.subhead {
